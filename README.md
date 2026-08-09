@@ -10,6 +10,10 @@ This repository hosts my projects across reinforcement learning, machine learnin
 
 _Projects are being added here over time._
 
+## Machine Learning
+
+- [Machine Learning Notebook](https://colab.research.google.com/drive/1cu_JOeGCcapeMjAM07iNro2ycBYqYhBa#scrollTo=Zxj69nvSeLzF)
+
 ## Contact
 
 - Website: [romeo-mhakayakora.github.io](https://romeo-mhakayakora.github.io)
